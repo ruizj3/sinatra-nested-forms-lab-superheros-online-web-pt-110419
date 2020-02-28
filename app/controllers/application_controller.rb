@@ -24,4 +24,3 @@ class App < Sinatra::Base
     erb :team
   end
 end
-© 2020 GitHub, Inc.
